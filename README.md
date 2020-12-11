@@ -13,7 +13,8 @@ News article web scrape from online news website using Selenium and BeautifulSou
 
 Selenium is required because some HTML elements involved JavaScript and can only be executed in the internet browser, and that JavaScript will grab data for a webpage.
 
-Make sure chrome driver is downloaded, required by Selenium. Can be downloaded from https://sites.google.com/a/chromium.org/chromedriver/ Download chrome driver for version 80 (and above depend on your chrome's version). Put the chromedriver.exe in the directory of the project folder.
+Make sure chrome driver is downloaded, required by Selenium. Can be downloaded from https://sites.google.com/a/chromium.org/chromedriver/ 
+Download chrome driver for version 80 (and above depend on your chrome's version). Put the chromedriver.exe in the directory of the project folder.
 
 #### Milestone 2:
 Management of data: store data into hive data warehouse or store data into data lake
