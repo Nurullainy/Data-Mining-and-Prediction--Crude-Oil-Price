@@ -6,7 +6,7 @@ The objective of this project is first to find hidden pattern of historical crud
 
 This project consists of 5 parts with 5 milestones:
 
-Milestone 1:
+#### Milestone 1:
 Acquisition of crude oil price data via web scrape using Scrapy and Selenium libraries
 
 News article web scrape from online news website using Selenium and BeautifulSoup libraries
@@ -15,17 +15,18 @@ Selenium is required because some HTML elements involved JavaScript and can only
 
 Make sure chrome driver is downloaded, required by Selenium. Can be downloaded from https://sites.google.com/a/chromium.org/chromedriver/ Download chrome driver for version 80 (and above depend on your chrome's version). Put the chromedriver.exe in the directory of the project folder.
 
-Milestone 2:
+#### Milestone 2:
 Management of data: store data into hive data warehouse or store data into data lake
 
-Milestone 3:
+#### Milestone 3:
 Processing of data: accessing hive data warehouse or data lake using Python
 
-Milestone 4:
+#### Milestone 4:
 Interpretation of data & Communication of Insights of data
 
 Descriptive Analysis using Python D Tale library
-Milestone 5:
+
+#### Milestone 5:
 Deployment in web (Flask) - Doing individual for this project
 
 Predictive Analytics - Recurrent Neural Network
