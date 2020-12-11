@@ -1,8 +1,3 @@
-# WQD7005-Data-Mining-Project
-
-Name: Nurullainy binti Mat Rashid
-Student ID: 17036591
-
 Project Title: Crude Oil Price Prediction
 
 ======================================================================================
@@ -23,15 +18,4 @@ a) Open file 2) News Article Web Scraping - online news websites in PyCharm or a
 
 b) To run the spider, open terminal from news_crawler directory and run 'scrapy crawl newsinsider -o yourfilename.csv'
 
-
-
-
-======================================================================================
-
-Progress of the project can be accessed via links below
-
-Link to codes and data:
-https://github.com/Nurullainy/WQD7005-Data-Mining-Project
-
-Link to videos : https://drive.google.com/drive/folders/1P1AJxG95YbWoaQkQ8HLwyZoUtlACx8mN?usp=sharing
 

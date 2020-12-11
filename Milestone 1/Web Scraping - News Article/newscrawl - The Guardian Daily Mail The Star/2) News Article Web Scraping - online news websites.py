@@ -1,18 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## WQD 7005 Data Mining 
-# ## Project Title: Crude Oil Price Prediction
-# ### Milestone 1: Data Extraction - News article from online websites
-# 
-# 
-# ##### Team member: 
-# 1) Nurullainy binti Mat Rashid 17036591
-# 
-# 2) Nor Asmidah Binti Mohd Arshad 17021881
-# 
-# 
-
 import requests
 from bs4 import BeautifulSoup
 import numpy as np
